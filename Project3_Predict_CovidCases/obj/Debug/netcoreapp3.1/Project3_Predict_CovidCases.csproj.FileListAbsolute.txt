@@ -1,0 +1,11 @@
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.exe
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.deps.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.runtimeconfig.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.runtimeconfig.dev.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.dll
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\bin\Debug\netcoreapp3.1\Project3_Predict_CovidCases.pdb
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\obj\Debug\netcoreapp3.1\Project3_Predict_CovidCases.csprojAssemblyReference.cache
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\obj\Debug\netcoreapp3.1\Project3_Predict_CovidCases.AssemblyInfoInputs.cache
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\obj\Debug\netcoreapp3.1\Project3_Predict_CovidCases.AssemblyInfo.cs
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\obj\Debug\netcoreapp3.1\Project3_Predict_CovidCases.dll
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project3_Predict_CovidCases\obj\Debug\netcoreapp3.1\Project3_Predict_CovidCases.pdb
