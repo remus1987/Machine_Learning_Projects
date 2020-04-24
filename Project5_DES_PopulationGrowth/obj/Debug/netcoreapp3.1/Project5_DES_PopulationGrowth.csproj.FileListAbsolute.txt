@@ -1,0 +1,12 @@
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.exe
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.deps.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.runtimeconfig.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.runtimeconfig.dev.json
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.dll
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.pdb
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\obj\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.AssemblyInfoInputs.cache
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\obj\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.AssemblyInfo.cs
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\obj\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.csproj.CopyComplete
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\obj\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.dll
+C:\Users\tru55\Desktop\GitHub\Machine_Learning_Projects\Project5_DES_PopulationGrowth\obj\Debug\netcoreapp3.1\Project5_DES_PopulationGrowth.pdb
